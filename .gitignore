@@ -1,0 +1,9 @@
+*.class
+*.tmp
+*.orig
+*.test
+*.project
+*.temp
+/test/*
+/sample/*
+/mytest/*
